@@ -1,1 +1,1 @@
-This is my git study record.
+This is my study record about git.
