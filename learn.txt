@@ -1,2 +1,3 @@
 This is my study record about git.
 This txt will be filled continuously.
+Let's talk about stage.
