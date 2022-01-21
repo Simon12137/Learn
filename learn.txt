@@ -4,3 +4,4 @@ Let's talk about stage.
 Any changes can be catched by git.
 Git manage the changes of file.
 Create a new branch named dev.
+New branch will be argue with main.
