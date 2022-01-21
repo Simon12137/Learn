@@ -5,3 +5,4 @@ Any changes can be catched by git.
 Git manage the changes of file.
 Create a new branch named dev.
 Confliect will be sloved in this version.
+Learn how to save histories.
